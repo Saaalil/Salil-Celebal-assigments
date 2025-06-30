@@ -1,0 +1,2 @@
+link for the app - 
+https://app.powerbi.com/Redirect?action=OpenApp&appId=390e1d65-a4ef-4adb-8f1c-dd27364b092d&ctid=27282fdd-4c0b-4dfb-ba91-228cd83fdf71&experience=power-bi
